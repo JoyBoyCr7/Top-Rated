@@ -2,8 +2,8 @@
 
 - **Project Name:** Top Rated 
 - **Project By:** Ronard Nyongkah
-- [**LINK TO GITHUB**]()
-- [**LINK TO DEPLOYED WEBSITE**]()
+- [**LINK TO GITHUB**](https://github.com/JoyBoyCr7/Top-Rated)
+- [**LINK TO DEPLOYED WEBSITE**](https://top-rated.vercel.app/)
 - **List of Technologies used:** JS, TypeScript, React, HTML, CSS, Node, Mongo, Express
 - [**LINK TO TRELLO**]()
 
